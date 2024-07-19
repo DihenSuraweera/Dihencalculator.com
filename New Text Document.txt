@@ -1,0 +1,10 @@
+body{
+background-color:cyan;
+}
+
+h1{
+color:white
+background-color:black
+font-type:calibrian;
+
+}
